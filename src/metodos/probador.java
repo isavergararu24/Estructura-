@@ -109,6 +109,6 @@ public class probador {
             }
             
         }while(op!=7);
-       System.exit(0);
+       
     }
 }
